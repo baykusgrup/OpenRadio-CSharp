@@ -1,0 +1,14 @@
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\bin\Debug\OpenRadioCSharp.exe.config
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\bin\Debug\OpenRadioCSharp.exe
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\bin\Debug\OpenRadioCSharp.pdb
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\bin\Debug\Interop.WMPLib.dll
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\bin\Debug\AxInterop.WMPLib.dll
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\OpenRadioCSharp.csprojResolveAssemblyReference.cache
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\Interop.WMPLib.dll
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\AxInterop.WMPLib.dll
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\OpenRadioCSharp.csproj.ResolveComReference.cache
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\OpenRadioCSharp.Properties.Resources.resources
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\OpenRadioCSharp.csproj.GenerateResource.Cache
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\OpenRadioCSharp.exe
+c:\users\serbay\documents\visual studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\OpenRadioCSharp.pdb
+C:\Users\Serbay\Documents\Visual Studio 2013\Projects\OpenRadioCSharp\OpenRadioCSharp\obj\Debug\OpenRadioCSharp.OpenRadio.resources
